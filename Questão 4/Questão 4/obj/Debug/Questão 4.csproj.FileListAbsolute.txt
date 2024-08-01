@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios\Lista 5\Questão 4\Questão 4\bin\Debug\Questão 4.exe.config
+C:\Users\thiag\Desktop\Exercícios\Lista 5\Questão 4\Questão 4\bin\Debug\Questão 4.exe
+C:\Users\thiag\Desktop\Exercícios\Lista 5\Questão 4\Questão 4\bin\Debug\Questão 4.pdb
+C:\Users\thiag\Desktop\Exercícios\Lista 5\Questão 4\Questão 4\obj\Debug\Questão 4.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios\Lista 5\Questão 4\Questão 4\obj\Debug\Questão 4.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios\Lista 5\Questão 4\Questão 4\obj\Debug\Questão 4.exe
+C:\Users\thiag\Desktop\Exercícios\Lista 5\Questão 4\Questão 4\obj\Debug\Questão 4.pdb
