@@ -4,18 +4,30 @@ Lista – Coleções
 Lista (Classe List) 
 
 1) Considere que um corredor profissional precisa de um programa para gerenciar os tempos (em horas - double) das maratonas que ele participou.  O programa deve apresentar o seguinte menu para o usuário: 
-Menu: 
+Menu:
+ 
 1)Inserir um tempo no início da lista 
+
 2)Inserir um tempo no final da lista 
+
 3)Inserir um tempo numa posição específica da lista 
+
 4)Remover o primeiro tempo da lista 
+
 5)Remover o último tempo da lista (Imprimir o tempo removido) 
+
 6)Remover um tempo de uma posição específica na lista (O usuário deve informar a posição do tempo a ser removido. Imprimir o tempo removido) 
+
 7)Remover um tempo específico da lista (O usuário deve informar o tempo a ser removido) 
+
 8)Pesquisar quantas vezes um determinado tempo consta na lista (O usuário deve informar o tempo a ser 	pesquisado) 
+
 9)Mostrar todos os tempos da lista 
+
 10)Mostrar todos os tempos da lista em ordem crescente 
+
 11)Mostrar todos os tempos da lista em ordem decrescente 
+
 12)Encerrar o programa 
 O programa deverá ler a opção informada pelo usuário e executar a operação selecionada. Em seguida o programa deverá apresentar novamente o menu, depois ler e executar a operação selecionada. Esse processo deverá ser repetido até que o usuário digite a opção de encerrar o programa. 
 
