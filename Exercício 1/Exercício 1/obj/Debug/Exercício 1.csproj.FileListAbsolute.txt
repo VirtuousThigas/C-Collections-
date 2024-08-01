@@ -1,0 +1,7 @@
+C:\Users\thiag\Desktop\Exercícios\Lista 5\Exercício 1\Exercício 1\bin\Debug\Exercício 1.exe.config
+C:\Users\thiag\Desktop\Exercícios\Lista 5\Exercício 1\Exercício 1\bin\Debug\Exercício 1.exe
+C:\Users\thiag\Desktop\Exercícios\Lista 5\Exercício 1\Exercício 1\bin\Debug\Exercício 1.pdb
+C:\Users\thiag\Desktop\Exercícios\Lista 5\Exercício 1\Exercício 1\obj\Debug\Exercício 1.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Exercícios\Lista 5\Exercício 1\Exercício 1\obj\Debug\Exercício 1.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Exercícios\Lista 5\Exercício 1\Exercício 1\obj\Debug\Exercício 1.exe
+C:\Users\thiag\Desktop\Exercícios\Lista 5\Exercício 1\Exercício 1\obj\Debug\Exercício 1.pdb
