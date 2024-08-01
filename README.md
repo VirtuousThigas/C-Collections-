@@ -1,5 +1,8 @@
 Lista – Coleções 
+
+
 Lista (Classe List) 
+
 1) Considere que um corredor profissional precisa de um programa para gerenciar os tempos (em horas - double) das maratonas que ele participou.  O programa deve apresentar o seguinte menu para o usuário: 
 Menu: 
 1)Inserir um tempo no início da lista 
@@ -15,7 +18,10 @@ Menu:
 11)Mostrar todos os tempos da lista em ordem decrescente 
 12)Encerrar o programa 
 O programa deverá ler a opção informada pelo usuário e executar a operação selecionada. Em seguida o programa deverá apresentar novamente o menu, depois ler e executar a operação selecionada. Esse processo deverá ser repetido até que o usuário digite a opção de encerrar o programa. 
+
+
 Pilha
+
 2) Na notação tradicional de expressões aritméticas pode-se usar parênteses para eliminar ambiguidade 
 Exemplo: 
 A + B * C 
@@ -36,7 +42,10 @@ Exemplos:
 	•	( ( ) [ ( ) ] ) a sequência está bem-formada 
 	•	( [ ) ]   a sequência está malformada
 Dica: os abre parênteses e abre colchetes devem ser empilhados. Quando vier um fecha parênteses deve ser desempilhado um caractere da pilha. 
+
+
 Fila 
+
 4) Escreva um programa que simule o controle de uma pista de decolagem de aviões em um aeroporto. Neste programa, o usuário deve ser capaz de realizar as seguintes tarefas: 
 	1.Listar a quantidade de aviões que estão aguardando na fila de decolagem 
 	2.Autorizar a decolagem do primeiro avião da fila de decolagem (isto é, retirar da fila de colagem) 	3.Adicionar um avião na fila de colagem 
@@ -44,9 +53,15 @@ Fila
 	5.Exibir o primeiro avião da fila de colagem 
 	6.Sair 
 Obs: A fila deve armazenar o identificador de cada avião (string).
+
+
 Dicionário 
+
 5) Faça um programa que leia uma frase e informe o número de ocorrências de cada palavra da frase. Use um dicionário para fazer essa contagem. Para simplificar considere que a frase não terá sinais de pontuação. Apenas faça o tratamento para letras minúsculas e maiúsculas. (Dica: o campo chave deve ser a palavra, e o campo valor deve ser o número de ocorrências da palavra). 
+
+
 Lista (Classe LinkedList) 
+
 6)Crie um programa que permita que um usuário gerencie sua lista de músicas (string). Para tanto, o programa deverá 	apresentar para o usuário um menu com as seguintes opções: 
 	Menu: 
 		1.Inserir uma música no final da lista 
