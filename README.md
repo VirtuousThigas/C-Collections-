@@ -86,8 +86,9 @@ Obs: A fila deve armazenar o identificador de cada avião (string).
 
 
 ## Lista (Classe LinkedList) 
-### 6)Crie um programa que permita que um usuário gerencie sua lista de músicas (string). Para tanto, o programa deverá 	apresentar para o usuário um menu com as seguintes opções: 
-	Menu: 
+### 6)Crie um programa que permita que um usuário gerencie sua lista de músicas (string). Para tanto, o programa deverá apresentar para o usuário um menu com as seguintes opções: 
+
+ Menu: 
 		
   1.Inserir uma música no final da lista 
 
